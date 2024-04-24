@@ -11,7 +11,6 @@ This is a simplified version of [jshimko/kube-tools](https://github.com/jshimko/
 - Helm S3 plugin - <https://github.com/hypnoglow/helm-s3>
 - awscli - <https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html>
 - aws-iam-authenticator - <https://github.com/kubernetes-sigs/aws-iam-authenticator>
-- doctl - <https://docs.digitalocean.com/reference/doctl/>
 - yamllint - <https://github.com/adrienverge/yamllint>
 - yq 4.42.1 (YAML parser based on `jq`) - <https://github.com/mikefarah/yq>
 
