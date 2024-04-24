@@ -1,4 +1,4 @@
-# kube-tools
+# json-tools
 
 A Docker image based on Debian 12 that comes with all the tools you need to work with json, curl, wget and git. Intended to be a flexible foundation of tools for CI/CD workflows.
 
