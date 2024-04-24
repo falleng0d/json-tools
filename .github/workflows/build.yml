@@ -13,7 +13,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: falleng0d/kube-tools
+          images: falleng0d/json-tools
           tags: |
             type=ref,event=branch
             type=match,pattern=\d+.\d+.\d+
